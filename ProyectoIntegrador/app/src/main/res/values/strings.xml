@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ProyectoIntegrador</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="btnAlumnos">Alumnos</string>
+    <string name="btnProfesores">Profesores</string>
+    <string name="btnMaterias">Materias</string>
+    <string name="btnCalificaciones">Calificaciones</string>
+    <string name="btnInsertar">Insertar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="btnGuardar">Guardar</string>
+
+
+</resources>
